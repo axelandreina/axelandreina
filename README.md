@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with **Typescript and Next**
 
-- 📝 I regularly stream on Twitch [Wednesdays, Thursdays and Saturdays]
+- 📝 I regularly stream on Twitch [Mondays, Wednesdays and Thursdays]
 
 - 💬 Ask me about **JS, React**
 
