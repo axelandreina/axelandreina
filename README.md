@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Axi</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **React**
 
 - 🤝 I’m looking for help with **Typescript and Next**
 
