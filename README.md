@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **React**
 
-- 🤝 I’m looking for help with **Typescript and Next**
+- 🤝 I’m looking for help with **Typescript and NextJS**
 
 - 📝 I regularly stream on Twitch [Mondays, Wednesdays and Thursdays]
 
 - 💬 Ask me about **JS, React**
 
-- 📫 How to reach me **axelandre91@gmail.com**
+- 📫 How to reach me **hello@codewithaxi.com**
 
 - ⚡ Fun fact **I'm improving my coding skills by streaming on Twitch**
 
