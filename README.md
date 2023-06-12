@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Axi</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m a frontend developer proficient in React (but I can pretty much do anything related to frontend)**
 
-- 🤝 I’m looking for help with **Typescript and NextJS**
+- 🤓 Recently, I've been learning **Typescript and NextJS**
 
-- 📝 I regularly stream on Twitch [Mondays, Wednesdays and Thursdays]
+- 📝 I used to stream on Twitch coding projects live
 
-- 💬 Ask me about **JS, React**
+- 💬 Ask me about **JS, React, Startups**
 
-- 📫 How to reach me **hello@codewithaxi.com**
-
-- ⚡ Fun fact **I'm improving my coding skills by streaming on Twitch**
+- ⚡ Fun fact **while I'm not coding, you can find me playing tennis or working out (CrossFit)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
